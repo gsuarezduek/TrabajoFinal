@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="ar.um.edu.programacion2.trabajofinal.domain.JuegoDataOnDemand_Roo_Configurable"/>
+<aspect name="ar.um.edu.programacion2.trabajofinal.domain.JuegoIntegrationTest_Roo_Configurable"/>
+<aspect name="ar.um.edu.programacion2.trabajofinal.domain.JuegoIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="ar.um.edu.programacion2.trabajofinal.domain.JuegoDataOnDemand_Roo_DataOnDemand"/>
+</aspects>
+</aspectj>
+

@@ -1,0 +1,9 @@
+// Spring Roo 1.3.1.RELEASE [rev 8cb81a3] log opened at 2016-10-31 22:39:37
+project --topLevelPackage ar.um.edu.programacion2.trabajofinal --projectName TrabajoFinal --java 6 --packaging WAR
+// Spring Roo 1.3.1.RELEASE [rev 8cb81a3] log closed at 2016-10-31 22:39:38
+// Spring Roo 1.3.1.RELEASE [rev 8cb81a3] log opened at 2016-10-31 22:39:47
+// Spring Roo 1.3.1.RELEASE [rev 8cb81a3] log closed at 2016-11-01 14:17:21
+// Spring Roo 1.3.1.RELEASE [rev 8cb81a3] log opened at 2016-11-01 15:12:09
+jpa setup --database MYSQL --provider HIBERNATE --databaseName trabajofinal --hostName localhost --userName root --password root
+entity jpa --class ar.um.edu.programacion2.trabajofinal.domain.Juego --testAutomatically
+
